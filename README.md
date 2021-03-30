@@ -1,5 +1,7 @@
 # BRIIT
 
+Import database di dalam folder SQL database menggunakan mysql
+
 Soal Test BRIIT Terdiri Dari :
 
 - Total amount transaksi terminal SV0003
